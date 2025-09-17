@@ -1,21 +1,22 @@
 <h2 align="left">👋 Hi there! I'm Shaktivel Elangovan</h2>
 
 <p align="left">
-  🚀 I'm a <strong>Full Stack Developer</strong> building production-ready SaaS platforms, AI-integrated tools, and real-time applications.<br />
-  💻 Passionate about TypeScript, scalable architecture, clean code, and developer experience.<br />
-  🌍 Based in Mumbai, India — open to global opportunities.
+  🚀 A <strong>Full Stack Developer</strong> passionate about building production-ready SaaS platforms, AI-powered tools, and real-time applications.<br />
+  💻 Skilled in TypeScript, React, Next.js, Node.js, and cloud-native development with a focus on scalability, performance, and clean architecture.<br />
+  🌍 Based in Mumbai, India — open to global opportunities and remote collaborations.
 </p>
 
 ###
 
 <div align="center">
-<!--    <img src="https://github-readme-stats.vercel.app/api?username=CODELASH-SHAKTIVEL&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" height="150" /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CODELASH-SHAKTIVEL&layout=compact&langs_count=8&theme=radical&hide_border=false" height="150" />
+  <!-- Profile Stats (Optional, uncomment if needed) -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=CODELASH-SHAKTIVEL&show_icons=true&theme=transparent&hide_border=false&count_private=true&include_all_commits=true" height="150" alt="GitHub Stats"/> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CODELASH-SHAKTIVEL&layout=compact&langs_count=8&theme=transparent&hide_border=false" height="150" alt="Top Languages"/>
 </div>
 
 ###
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="180" />
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="180" alt="Coding GIF"/>
 
 ---
 
@@ -26,7 +27,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="40"/>
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" alt="Next.js" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" height="40"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="40"/>
   &nbsp;
@@ -36,7 +37,7 @@
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="40"/>
   &nbsp;
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" height="40"/> -->
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" height="40"/>
   &nbsp;
   <img src="https://raw.githubusercontent.com/shadcn-ui/ui/main/apps/www/public/favicon.ico" alt="ShadCN UI" height="40"/>
 </div>
@@ -68,16 +69,15 @@
 #### ☁️ Cloud, DevOps & APIs
 
 <div align="left">
-  <!-- AWS icon from aws-icons CDN -->
-  <img src="https://cdn.jsdelivr.net/npm/aws-icons@latest/icons/architecture-service/AWSElasticBeanstalk.svg" alt="AWS" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg" alt="AWS" height="40"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
+  <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Gemini%20API-1A73E8?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API" />
+  <img src="https://img.shields.io/badge/Gemini%20API-1A73E8?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Stream%20Video-4A154B?style=for-the-badge&logo=twitch&logoColor=white" alt="Stream SDK" />
+  <img src="https://img.shields.io/badge/Stream%20Video-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Stream SDK"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Clerk-000000?style=for-the-badge&logo=clerk&logoColor=white" alt="Clerk Auth" />
+  <img src="https://img.shields.io/badge/Clerk-000000?style=for-the-badge&logo=clerk&logoColor=white" alt="Clerk Auth"/>
 </div>
 
 ---
@@ -85,23 +85,22 @@
 #### 🔐 Authentication & Real-time
 
 <div align="left">
-  <img src="https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="NextAuth.js" />
+  <img src="https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="NextAuth.js"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/OAuth-3E8EDE?style=for-the-badge&logo=openid&logoColor=white" alt="OAuth" />
+  <img src="https://img.shields.io/badge/OAuth-3E8EDE?style=for-the-badge&logo=openid&logoColor=white" alt="OAuth"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/WebSockets-007ACC?style=for-the-badge&logo=websocket&logoColor=white" alt="WebSockets" />
+  <img src="https://img.shields.io/badge/WebSockets-007ACC?style=for-the-badge&logo=websocket&logoColor=white" alt="WebSockets"/>
 </div>
 
 ---
 
-
 ### 🌟 Highlight Projects
 
 | 🚀 Project | 🧩 Description | 🛠️ Tech Stack |
-|-----------|----------------|---------------|
-| [**CodeCortex**](https://code-cortex-three.vercel.app) | AI-Powered GitHub Companion with commit summaries and Q&A | `Next.js`, `Google Gemini`, `Stripe`, `PostgreSQL` |
-| [**FreelancerFlow**](https://freelancerflow-v2.vercel.app) | All-in-one freelance business suite | `Next.js`, `ShadCN`, `Tailwind`, `Node.js`, `PostgreSQL` |
-| [**StreamLoop**](https://stream-loop-gamma.vercel.app) | Video conferencing app with Stream SDK | `Stream Video`, `Clerk`, `WebRTC`, `Next.js` |
+|------------|----------------|---------------|
+| [**CodeCortex**](https://code-cortex-three.vercel.app) | AI-Powered GitHub Companion for commit summaries and contextual Q&A | `Next.js`, `Google Gemini`, `Stripe`, `PostgreSQL` |
+| [**FreelancerFlow**](https://freelancerflow-v2.vercel.app) | All-in-one freelance business suite for project & client management | `Next.js`, `ShadCN`, `Tailwind`, `Node.js`, `PostgreSQL` |
+| [**StreamLoop**](https://stream-loop-gamma.vercel.app) | Real-time video conferencing with recording, scheduling & screen sharing | `Stream Video`, `Clerk`, `WebRTC`, `Next.js` |
 
 ---
 
