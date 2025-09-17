@@ -8,11 +8,7 @@
 
 ###
 
-<div align="center">
-  <!-- Profile Stats (Optional, uncomment if needed) -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=CODELASH-SHAKTIVEL&show_icons=true&theme=transparent&hide_border=false&count_private=true&include_all_commits=true" height="150" alt="GitHub Stats"/> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CODELASH-SHAKTIVEL&layout=compact&langs_count=8&theme=transparent&hide_border=false" height="150" alt="Top Languages"/>
-</div>
+<div align="center"> <!-- <img src="https://github-readme-stats.vercel.app/api?username=CODELASH-SHAKTIVEL&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" height="150" /> --> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CODELASH-SHAKTIVEL&layout=compact&langs_count=8&theme=radical&hide_border=false" height="150" /> </div>
 
 ###
 
