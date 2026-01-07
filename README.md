@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shaktivel Elangovan</h1>
-<h3 align="center">Full Stack Developer • SaaS Builder • AI & Real-Time Systems</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;SaaS+Builder;AI+%26+Real-Time+Systems;Scalable+Backend+Architectures" />
+</p>
 
 <p align="center">
   <a href="https://github.com/CODELASH-SHAKTIVEL">
@@ -17,27 +20,25 @@
 
 ## 🚀 About Me
 
-💡 **Full Stack Developer** focused on building **production-ready SaaS platforms**, **AI-powered tools**, and **real-time applications**  
-🧠 Strong emphasis on **scalability, performance, clean architecture & developer experience**  
+💡 **Full Stack Developer** building **production-ready SaaS platforms**, **AI-powered tools**, and **real-time applications**  
+🧠 Strong focus on **scalability, performance, clean architecture & developer experience**  
 🌍 Based in **Mumbai, India** — open to **remote & global opportunities**
+
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="180" />
 
 ---
 
-## 📊 GitHub Stats
+## 🌱 Currently Learning
 
-<p align="center">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=CODELASH-SHAKTIVEL&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api?username=CODELASH-SHAKTIVEL&show_icons=true&theme=default" media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-stats.vercel.app/api?username=CODELASH-SHAKTIVEL&show_icons=true" height="165"/>
-  </picture>
+🚀 **Advanced AWS Architecture**  
+→ Designing fault-tolerant, highly available cloud systems  
 
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CODELASH-SHAKTIVEL&layout=compact&theme=dark" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CODELASH-SHAKTIVEL&layout=compact&theme=default" media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CODELASH-SHAKTIVEL&layout=compact" height="165"/>
-  </picture>
-</p>
+🧩 **Microservices with Node.js**  
+→ Event-driven systems, service discovery & inter-service communication  
+
+⚙️ **System Design & Scalable APIs**  
+→ Load balancing, caching strategies, DB optimization & API performance  
 
 ---
 
@@ -85,9 +86,9 @@
 
 | 🚀 Project | 🧩 Description | 🛠️ Tech Stack | 🔗 Live |
 |----------|---------------|---------------|--------|
-| **[CodeCortex](https://code-cortex-three.vercel.app)** | AI-powered GitHub companion for commit summaries, repo insights & contextual Q&A | Next.js · Gemini API · Stripe · PostgreSQL | 🔴 [Live Demo](https://code-cortex-three.vercel.app) |
-| **[FreelancerFlow](https://freelancerflow-v2.vercel.app)** | All-in-one freelance business management SaaS for projects, clients & invoices | Next.js · Tailwind · ShadCN · Node.js · PostgreSQL | 🔴 [Live Demo](https://freelancerflow-v2.vercel.app) |
-| **[StreamLoop](https://stream-loop-gamma.vercel.app)** | Real-time video conferencing platform with scheduling, recording & screen sharing | Next.js · WebRTC · Stream SDK · Clerk | 🔴 [Live Demo](https://stream-loop-gamma.vercel.app) |
+| **[CodeCortex](https://code-cortex-three.vercel.app)** | AI-powered GitHub companion for commit summaries & repo Q&A | Next.js · Gemini API · Stripe · PostgreSQL | 🔴 [Live](https://code-cortex-three.vercel.app) |
+| **[FreelancerFlow](https://freelancerflow-v2.vercel.app)** | Freelance business management SaaS | Next.js · Tailwind · ShadCN · Node.js · PostgreSQL | 🔴 [Live](https://freelancerflow-v2.vercel.app) |
+| **[StreamLoop](https://stream-loop-gamma.vercel.app)** | Real-time video conferencing platform | Next.js · WebRTC · Stream SDK · Clerk | 🔴 [Live](https://stream-loop-gamma.vercel.app) |
 
 ---
 
