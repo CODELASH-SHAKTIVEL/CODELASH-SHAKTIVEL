@@ -1,126 +1,111 @@
-<h2 align="left">👋 Hi there! I'm Shaktivel Elangovan</h2>
+<h1 align="center">Hi 👋, I'm Shaktivel Elangovan</h1>
+<h3 align="center">Full Stack Developer • SaaS Builder • AI & Real-Time Systems</h3>
 
-<p align="left">
-  🚀 A <strong>Full Stack Developer</strong> passionate about building production-ready SaaS platforms, AI-powered tools, and real-time applications.<br />
-  💻 Skilled in TypeScript, React, Next.js, Node.js, and cloud-native development with a focus on scalability, performance, and clean architecture.<br />
-  🌍 Based in Mumbai, India — open to global opportunities and remote collaborations.
-</p>
-
-###
-
-<div align="center"> <!-- <img src="https://github-readme-stats.vercel.app/api?username=CODELASH-SHAKTIVEL&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" height="150" /> --> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CODELASH-SHAKTIVEL&layout=compact&langs_count=8&theme=radical&hide_border=false" height="150" /> </div>
-
-###
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="180" alt="Coding GIF"/>
-
----
-
-### 🛠️ Tech Toolbox
-
-#### 💻 Frontend
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="40"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" height="40"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="40"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="40"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="40"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="40"/>
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" height="40"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/shadcn-ui/ui/main/apps/www/public/favicon.ico" alt="ShadCN UI" height="40"/>
-</div>
-
----
-
-#### 🧠 Backend & Dev Tools
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="40"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" height="40"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="40"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="40"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="40"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="40"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="40"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" height="40"/>
-</div>
-
----
-
-#### ☁️ Cloud, DevOps & APIs
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg" alt="AWS" height="40"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Gemini%20API-1A73E8?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Stream%20Video-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Stream SDK"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Clerk-000000?style=for-the-badge&logo=clerk&logoColor=white" alt="Clerk Auth"/>
-</div>
-
----
-
-#### 🔐 Authentication & Real-time
-
-<div align="left">
-  <img src="https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="NextAuth.js"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/OAuth-3E8EDE?style=for-the-badge&logo=openid&logoColor=white" alt="OAuth"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/WebSockets-007ACC?style=for-the-badge&logo=websocket&logoColor=white" alt="WebSockets"/>
-</div>
-
----
-
-### 🌟 Highlight Projects
-
-| 🚀 Project | 🧩 Description | 🛠️ Tech Stack |
-|------------|----------------|---------------|
-| [**CodeCortex**](https://code-cortex-three.vercel.app) | AI-Powered GitHub Companion for commit summaries and contextual Q&A | `Next.js`, `Google Gemini`, `Stripe`, `PostgreSQL` |
-| [**FreelancerFlow**](https://freelancerflow-v2.vercel.app) | All-in-one freelance business suite for project & client management | `Next.js`, `ShadCN`, `Tailwind`, `Node.js`, `PostgreSQL` |
-| [**StreamLoop**](https://stream-loop-gamma.vercel.app) | Real-time video conferencing with recording, scheduling & screen sharing | `Stream Video`, `Clerk`, `WebRTC`, `Next.js` |
-
----
-
-### 📫 Let's Connect
-
-<div align="left">
-  <a href="https://github.com/CODELASH-SHAKTIVEL" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<p align="center">
+  <a href="https://github.com/CODELASH-SHAKTIVEL">
+    <img src="https://komarev.com/ghpvc/?username=CODELASH-SHAKTIVEL&label=Profile%20Views&color=blueviolet&style=flat" />
   </a>
-  <a href="https://linkedin.com/in/shaktivel-elangovan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/shaktivel-elangovan">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=flat&logo=linkedin" />
   </a>
   <a href="mailto:shaktivel.elangovan.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" />
   </a>
-  <a href="https://twitter.com/shaktivel_dev" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+</p>
 
 ---
+
+## 🚀 About Me
+
+💡 **Full Stack Developer** focused on building **production-ready SaaS platforms**, **AI-powered tools**, and **real-time applications**  
+🧠 Strong emphasis on **scalability, performance, clean architecture & developer experience**  
+🌍 Based in **Mumbai, India** — open to **remote & global opportunities**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=CODELASH-SHAKTIVEL&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api?username=CODELASH-SHAKTIVEL&show_icons=true&theme=default" media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-stats.vercel.app/api?username=CODELASH-SHAKTIVEL&show_icons=true" height="165"/>
+  </picture>
+
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CODELASH-SHAKTIVEL&layout=compact&theme=dark" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CODELASH-SHAKTIVEL&layout=compact&theme=default" media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CODELASH-SHAKTIVEL&layout=compact" height="165"/>
+  </picture>
+</p>
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Frontend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40"/>
+</p>
+
+### 🧠 Backend & Databases
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
+</p>
+
+### ☁️ Cloud, DevOps & APIs
+<p>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg" height="40"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat&logo=stripe&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini%20API-1A73E8?style=flat&logo=google"/>
+  <img src="https://img.shields.io/badge/Stream%20Video-9146FF?style=flat&logo=twitch&logoColor=white"/>
+</p>
+
+### 🔐 Authentication & Real-Time
+<p>
+  <img src="https://img.shields.io/badge/Clerk-000000?style=flat&logo=clerk"/>
+  <img src="https://img.shields.io/badge/NextAuth-000000?style=flat&logo=next.js"/>
+  <img src="https://img.shields.io/badge/OAuth-3E8EDE?style=flat"/>
+  <img src="https://img.shields.io/badge/WebSockets-007ACC?style=flat"/>
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+| 🚀 Project | 🧩 Description | 🛠️ Tech Stack | 🔗 Live |
+|----------|---------------|---------------|--------|
+| **[CodeCortex](https://code-cortex-three.vercel.app)** | AI-powered GitHub companion for commit summaries, repo insights & contextual Q&A | Next.js · Gemini API · Stripe · PostgreSQL | 🔴 [Live Demo](https://code-cortex-three.vercel.app) |
+| **[FreelancerFlow](https://freelancerflow-v2.vercel.app)** | All-in-one freelance business management SaaS for projects, clients & invoices | Next.js · Tailwind · ShadCN · Node.js · PostgreSQL | 🔴 [Live Demo](https://freelancerflow-v2.vercel.app) |
+| **[StreamLoop](https://stream-loop-gamma.vercel.app)** | Real-time video conferencing platform with scheduling, recording & screen sharing | Next.js · WebRTC · Stream SDK · Clerk | 🔴 [Live Demo](https://stream-loop-gamma.vercel.app) |
+
+---
+
+## 📫 Connect With Me
+
+<p>
+  <a href="https://github.com/CODELASH-SHAKTIVEL"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github"/></a>
+  <a href="https://linkedin.com/in/shaktivel-elangovan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin"/></a>
+  <a href="mailto:shaktivel.elangovan.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail"/></a>
+  <a href="https://twitter.com/shaktivel_dev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter"/></a>
+</p>
+
+---
+
+<p align="center">
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" media="(prefers-color-scheme: light)" />
+    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
