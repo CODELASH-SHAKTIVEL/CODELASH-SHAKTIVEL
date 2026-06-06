@@ -51,7 +51,7 @@ I enjoy designing systems that are:
 
 ✅ Production Ready
 
-Currently focused on:
+Currently focused on learning:
 
 - AWS Cloud Architecture
 - System Design
@@ -65,189 +65,222 @@ Currently focused on:
 
 ### Explore My Work
 
-👉 **https://shaktivel-codelash.vercel.app/**
+👉 **Portfolio:** https://shaktivel-codelash.vercel.app/
 
 Inside you'll find:
 
 - Projects
 - Resume
-- Skills
 - Technical Journey
+- Skills & Experience
 - Contact Information
 
 ---
 
-# 🏆 Featured Projects
+# 🚀 What I'm Building
 
-<table>
-<tr>
-<td width="50%">
+These projects represent my journey in building scalable software, distributed systems, AI-powered applications, and real-time platforms.
 
-## 🚀 API Monitoring Platform
+---
 
-Production-grade event-driven monitoring system inspired by modern observability platforms.
+## 🚀 API Monitoring & Analytics Platform
+
+> Production-grade event-driven monitoring system inspired by modern observability platforms such as Datadog and New Relic.
+
+### Why I Built It
+
+Modern applications generate thousands to millions of API requests every day. I wanted to understand how production systems ingest, process, store, and analyze large volumes of traffic while maintaining scalability and reliability.
 
 ### Highlights
 
-- RabbitMQ Messaging
-- MongoDB Atlas
-- PostgreSQL Analytics
-- Circuit Breaker Pattern
-- Retry Strategy
-- Dead Letter Queue
-- Multi-Tenant SaaS Design
-- Repository Pattern
-- Dependency Injection
+✨ Multi-Tenant SaaS Architecture
 
-### Tech Stack
+✨ RabbitMQ Event Processing
 
-Node.js • Express.js • RabbitMQ • MongoDB • PostgreSQL • Docker
+✨ MongoDB + PostgreSQL Polyglot Persistence
+
+✨ Circuit Breaker Pattern
+
+✨ Retry Strategy with Exponential Backoff
+
+✨ Dead Letter Queue
+
+✨ Repository Pattern
+
+✨ Dependency Injection
+
+✨ SOLID Architecture
+
+✨ Dockerized Infrastructure
+
+### Engineering Focus
+
+`Distributed Systems` • `Event-Driven Architecture` • `Reliability Engineering` • `System Design`
 
 🔗 Repository:
 
 https://github.com/CODELASH-SHAKTIVEL/Api-monitoring
 
-</td>
-
-<td width="50%">
+---
 
 ## 🤖 CodeCortex
 
-AI-powered GitHub Companion helping developers understand repositories faster.
+> AI-powered GitHub Companion that helps developers understand unfamiliar repositories faster using Retrieval-Augmented Generation (RAG).
 
-### Features
+### Why I Built It
 
-- Repository Q&A
-- Commit Summaries
-- Semantic Search
-- Vector Search
-- RAG Architecture
+Developers spend hours understanding large codebases. I wanted to build a platform where developers could ask questions about repositories and receive intelligent answers generated directly from the source code.
 
-### Tech Stack
+### Highlights
 
-Next.js • Gemini AI • PostgreSQL • LangChain
+✨ Repository Q&A
 
-🔗 Live:
+✨ Commit Summarization
+
+✨ Semantic Search
+
+✨ Vector Embeddings
+
+✨ Retrieval-Augmented Generation (RAG)
+
+✨ GitHub Integration
+
+✨ AI-Powered Code Understanding
+
+### Engineering Focus
+
+`AI Engineering` • `Vector Search` • `RAG Systems` • `LLM Applications`
+
+🔗 Live Demo:
 
 https://code-cortex-three.vercel.app
 
-</td>
-</tr>
-
-<tr>
-<td width="50%">
+---
 
 ## 🎥 StreamLoop
 
-Enterprise-ready video conferencing platform.
+> Enterprise-ready video conferencing platform designed for modern remote collaboration.
 
-### Features
+### Why I Built It
 
-- Instant Meetings
-- Scheduled Meetings
-- Recordings
-- Screen Sharing
-- Personal Rooms
-- Participant Management
+I wanted to understand how real-time communication systems work and how modern companies build scalable video conferencing products without reinventing complex WebRTC infrastructure.
 
-### Tech Stack
+### Highlights
 
-Next.js 14 • TypeScript • Clerk • Stream SDK
+✨ Instant Meetings
 
-🔗 Live:
+✨ Scheduled Meetings
+
+✨ Personal Rooms
+
+✨ Recording Support
+
+✨ Screen Sharing
+
+✨ Participant Management
+
+✨ Secure Authentication
+
+✨ Responsive SaaS Experience
+
+### Engineering Focus
+
+`Real-Time Systems` • `Video Infrastructure` • `SaaS Architecture`
+
+🔗 Live Demo:
 
 https://stream-loop-gamma.vercel.app
 
-</td>
-
-<td width="50%">
+---
 
 ## 💼 FreelancerFlow
 
-Freelance business management SaaS platform.
+> Complete freelance business management platform designed to help freelancers manage clients, projects, and business workflows.
 
-### Features
+### Why I Built It
 
-- Client Management
-- Project Tracking
-- Invoicing
-- Workflow Automation
+Freelancers often manage clients, invoices, projects, and deadlines across multiple tools. I wanted to bring everything together into a single productivity platform.
 
-### Tech Stack
+### Highlights
 
-Next.js • PostgreSQL • Tailwind • ShadCN
+✨ Client Management
 
-🔗 Live:
+✨ Project Tracking
+
+✨ Invoice Management
+
+✨ Business Dashboard
+
+✨ Workflow Automation
+
+✨ Modern SaaS Experience
+
+### Engineering Focus
+
+`Product Development` • `SaaS Architecture` • `Business Applications`
+
+🔗 Live Demo:
 
 https://freelancerflow-v2.vercel.app
 
-</td>
-</tr>
-</table>
-
 ---
 
-# 🧠 Engineering Interests
+# 🎯 What Defines My Engineering Style
 
-I enjoy learning and building around:
+I enjoy building systems that are:
 
-### 🏗 System Design
+🏗 Well Architected
 
-- Scalability
-- Reliability
-- High Availability
-- Performance Engineering
+⚡ Scalable
 
-### ⚡ Distributed Systems
+🛡 Reliable
 
+📈 Performance Focused
+
+🔄 Maintainable
+
+🚀 Production Ready
+
+My current interests include:
+
+- Distributed Systems
 - Event-Driven Architecture
-- Message Queues
-- Service Communication
-- Reliability Patterns
-
-### 🤖 AI Engineering
-
-- RAG Systems
-- Vector Databases
-- LLM Applications
-- Semantic Search
-
-### ☁ Cloud Engineering
-
-- AWS
-- Docker
-- Infrastructure Design
-- Deployment Strategies
+- Backend Engineering
+- AI Applications
+- Cloud Architecture
+- System Design
+- SaaS Products
+- Reliability Engineering
 
 ---
 
 # ⚙️ Tech Stack
 
-## Frontend
+### Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css" />
 </p>
 
-## Backend
+### Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-## Databases
+### Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
 </p>
 
-## Cloud & DevOps
+### Cloud & DevOps
 
 <p>
 <img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
 </p>
 
-## Tools & Platforms
+### Tools & Platforms
 
 <p>
 
@@ -267,16 +300,28 @@ I enjoy learning and building around:
 
 ---
 
-# 📈 GitHub Analytics
+# 🌱 Currently Learning
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CODELASH-SHAKTIVEL&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CODELASH-SHAKTIVEL&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+### ☁ AWS Cloud Architecture
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CODELASH-SHAKTIVEL&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+- High Availability
+- Auto Scaling
+- Load Balancing
+- Infrastructure Design
+
+### 🏗 System Design
+
+- Scalability Patterns
+- Database Optimization
+- Caching Strategies
+- API Design
+
+### ⚡ Distributed Systems
+
+- Event-Driven Architecture
+- Message Queues
+- Reliability Patterns
+- Service Communication
 
 ---
 
@@ -296,7 +341,7 @@ I enjoy learning and building around:
 <div align="center">
 
 <a href="https://shaktivel-codelash.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐 Portfolio-Visit-success?style=for-the-badge"/>
 </a>
 
 <a href="https://linkedin.com/in/shaktivel-elangovan">
@@ -317,11 +362,11 @@ I enjoy learning and building around:
 
 <div align="center">
 
-## 💡 Philosophy
+## 💡 Engineering Philosophy
 
 ### "First make it work. Then make it right. Then make it scale."
 
-From AI-powered applications to distributed systems, I'm continuously exploring how software can solve meaningful problems at scale.
+I believe great software is built by continuously learning, improving, and solving real-world problems through clean architecture, scalable design, and thoughtful engineering.
 
 </div>
 
@@ -336,6 +381,8 @@ From AI-powered applications to distributed systems, I'm continuously exploring 
 
 <div align="center">
 
-⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting my profile!
+
+Building AI Applications • SaaS Products • Distributed Systems • Real-Time Platforms
 
 </div>
