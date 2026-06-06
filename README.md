@@ -1,112 +1,341 @@
-<h1 align="center">Hi 👋, I'm Shaktivel Elangovan</h1>
+<div align="center">
+
+# 👋 Hey, I'm Shaktivel Elangovan
+
+### 🚀 Full Stack Engineer • SaaS Builder • AI Enthusiast • Backend Architecture Learner
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Building+Scalable+SaaS+Platforms;Designing+Distributed+Systems;Developing+AI-Powered+Applications;Creating+Real-Time+Experiences;Always+Learning+and+Shipping" />
+
+<br/>
+
+<a href="https://shaktivel-codelash.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐 Portfolio-Visit_Now-blue?style=for-the-badge" />
+</a>
+
+<a href="https://linkedin.com/in/shaktivel-elangovan">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:shaktivel.elangovan.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+</a>
+
+<a href="https://github.com/CODELASH-SHAKTIVEL">
+  <img src="https://komarev.com/ghpvc/?username=CODELASH-SHAKTIVEL&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+</a>
+
+</div>
+
+---
+
+# 🚀 About Me
+
+I'm a software engineer passionate about building products that solve real-world problems.
+
+My interests currently revolve around:
+
+- 🏗 Backend Architecture
+- ⚡ Distributed Systems
+- 🤖 Artificial Intelligence
+- ☁ Cloud Engineering
+- 📊 SaaS Platforms
+- 🎥 Real-Time Applications
+
+I enjoy designing systems that are:
+
+✅ Scalable
+
+✅ Reliable
+
+✅ Maintainable
+
+✅ Production Ready
+
+Currently focused on:
+
+- AWS Cloud Architecture
+- System Design
+- Distributed Systems
+- Reliability Engineering
+- AI Applications
+
+---
+
+# 🌐 Portfolio
+
+### Explore My Work
+
+👉 **https://shaktivel-codelash.vercel.app/**
+
+Inside you'll find:
+
+- Projects
+- Resume
+- Skills
+- Technical Journey
+- Contact Information
+
+---
+
+# 🏆 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+## 🚀 API Monitoring Platform
+
+Production-grade event-driven monitoring system inspired by modern observability platforms.
+
+### Highlights
+
+- RabbitMQ Messaging
+- MongoDB Atlas
+- PostgreSQL Analytics
+- Circuit Breaker Pattern
+- Retry Strategy
+- Dead Letter Queue
+- Multi-Tenant SaaS Design
+- Repository Pattern
+- Dependency Injection
+
+### Tech Stack
+
+Node.js • Express.js • RabbitMQ • MongoDB • PostgreSQL • Docker
+
+🔗 Repository:
+
+https://github.com/CODELASH-SHAKTIVEL/Api-monitoring
+
+</td>
+
+<td width="50%">
+
+## 🤖 CodeCortex
+
+AI-powered GitHub Companion helping developers understand repositories faster.
+
+### Features
+
+- Repository Q&A
+- Commit Summaries
+- Semantic Search
+- Vector Search
+- RAG Architecture
+
+### Tech Stack
+
+Next.js • Gemini AI • PostgreSQL • LangChain
+
+🔗 Live:
+
+https://code-cortex-three.vercel.app
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## 🎥 StreamLoop
+
+Enterprise-ready video conferencing platform.
+
+### Features
+
+- Instant Meetings
+- Scheduled Meetings
+- Recordings
+- Screen Sharing
+- Personal Rooms
+- Participant Management
+
+### Tech Stack
+
+Next.js 14 • TypeScript • Clerk • Stream SDK
+
+🔗 Live:
+
+https://stream-loop-gamma.vercel.app
+
+</td>
+
+<td width="50%">
+
+## 💼 FreelancerFlow
+
+Freelance business management SaaS platform.
+
+### Features
+
+- Client Management
+- Project Tracking
+- Invoicing
+- Workflow Automation
+
+### Tech Stack
+
+Next.js • PostgreSQL • Tailwind • ShadCN
+
+🔗 Live:
+
+https://freelancerflow-v2.vercel.app
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🧠 Engineering Interests
+
+I enjoy learning and building around:
+
+### 🏗 System Design
+
+- Scalability
+- Reliability
+- High Availability
+- Performance Engineering
+
+### ⚡ Distributed Systems
+
+- Event-Driven Architecture
+- Message Queues
+- Service Communication
+- Reliability Patterns
+
+### 🤖 AI Engineering
+
+- RAG Systems
+- Vector Databases
+- LLM Applications
+- Semantic Search
+
+### ☁ Cloud Engineering
+
+- AWS
+- Docker
+- Infrastructure Design
+- Deployment Strategies
+
+---
+
+# ⚙️ Tech Stack
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css" />
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+## Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+</p>
+
+## Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
+</p>
+
+## Tools & Platforms
+
+<p>
+
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google"/>
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Stream_Video-9146FF?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;SaaS+Builder;AI+%26+Real-Time+Systems;Scalable+Backend+Architectures" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CODELASH-SHAKTIVEL&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CODELASH-SHAKTIVEL&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/CODELASH-SHAKTIVEL">
-    <img src="https://komarev.com/ghpvc/?username=CODELASH-SHAKTIVEL&label=Profile%20Views&color=blueviolet&style=flat" />
-  </a>
-  <a href="https://linkedin.com/in/shaktivel-elangovan">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=flat&logo=linkedin" />
-  </a>
-  <a href="mailto:shaktivel.elangovan.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CODELASH-SHAKTIVEL&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🚀 About Me
+# 🎯 2026 Goals
 
-💡 **Full Stack Developer** building **production-ready SaaS platforms**, **AI-powered tools**, and **real-time applications**  
-🧠 Strong focus on **scalability, performance, clean architecture & developer experience**  
-🌍 Based in **Mumbai, India** — open to **remote & global opportunities**
-
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="180" />
-
----
-
-## 🌱 Currently Learning
-
-🚀 **Advanced AWS Architecture**  
-→ Designing fault-tolerant, highly available cloud systems  
-
-🧩 **Microservices with Node.js**  
-→ Event-driven systems, service discovery & inter-service communication  
-
-⚙️ **System Design & Scalable APIs**  
-→ Load balancing, caching strategies, DB optimization & API performance  
+- 🚀 Land a Software Engineering Role
+- ☁ Earn AWS Certification
+- 🏗 Build More Production-Grade Systems
+- 🤖 Deepen AI Engineering Knowledge
+- 🌍 Contribute to Open Source
+- 📚 Master Distributed Systems
 
 ---
 
-## 🛠 Tech Stack
+# 📫 Let's Connect
 
-### 💻 Frontend
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40"/>
-</p>
+<div align="center">
 
-### 🧠 Backend & Databases
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
-</p>
+<a href="https://shaktivel-codelash.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge"/>
+</a>
 
-### ☁️ Cloud, DevOps & APIs
-<p>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg" height="40"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat&logo=stripe&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gemini%20API-1A73E8?style=flat&logo=google"/>
-  <img src="https://img.shields.io/badge/Stream%20Video-9146FF?style=flat&logo=twitch&logoColor=white"/>
-</p>
+<a href="https://linkedin.com/in/shaktivel-elangovan">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-### 🔐 Authentication & Real-Time
-<p>
-  <img src="https://img.shields.io/badge/Clerk-000000?style=flat&logo=clerk"/>
-  <img src="https://img.shields.io/badge/NextAuth-000000?style=flat&logo=next.js"/>
-  <img src="https://img.shields.io/badge/OAuth-3E8EDE?style=flat"/>
-  <img src="https://img.shields.io/badge/WebSockets-007ACC?style=flat"/>
-</p>
+<a href="mailto:shaktivel.elangovan.dev@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/CODELASH-SHAKTIVEL">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
 
 ---
 
-## 🌟 Featured Projects
+<div align="center">
 
-| 🚀 Project | 🧩 Description | 🛠️ Tech Stack | 🔗 Live |
-|----------|---------------|---------------|--------|
-| **[CodeCortex](https://code-cortex-three.vercel.app)** | AI-powered GitHub companion for commit summaries & repo Q&A | Next.js · Gemini API · Stripe · PostgreSQL | 🔴 [Live](https://code-cortex-three.vercel.app) |
-| **[FreelancerFlow](https://freelancerflow-v2.vercel.app)** | Freelance business management SaaS | Next.js · Tailwind · ShadCN · Node.js · PostgreSQL | 🔴 [Live](https://freelancerflow-v2.vercel.app) |
-| **[StreamLoop](https://stream-loop-gamma.vercel.app)** | Real-time video conferencing platform | Next.js · WebRTC · Stream SDK · Clerk | 🔴 [Live](https://stream-loop-gamma.vercel.app) |
+## 💡 Philosophy
 
----
+### "First make it work. Then make it right. Then make it scale."
 
-## 📫 Connect With Me
+From AI-powered applications to distributed systems, I'm continuously exploring how software can solve meaningful problems at scale.
 
-<p>
-  <a href="https://github.com/CODELASH-SHAKTIVEL"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github"/></a>
-  <a href="https://linkedin.com/in/shaktivel-elangovan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin"/></a>
-  <a href="mailto:shaktivel.elangovan.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail"/></a>
-  <a href="https://twitter.com/shaktivel_dev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter"/></a>
-</p>
+</div>
 
 ---
 
 <p align="center">
   <picture>
     <source srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" media="(prefers-color-scheme: light)" />
-    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </p>
+
+<div align="center">
+
+⭐ Thanks for visiting my profile!
+
+</div>
